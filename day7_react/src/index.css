@@ -1,0 +1,16 @@
+header{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: aqua;
+  align-items: center;
+}
+
+footer{
+  background-color: aquamarine;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  
+}
+
